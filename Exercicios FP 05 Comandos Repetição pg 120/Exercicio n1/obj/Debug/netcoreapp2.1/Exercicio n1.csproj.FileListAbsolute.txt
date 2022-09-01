@@ -1,0 +1,11 @@
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\bin\Debug\netcoreapp2.1\Exercicio n1.deps.json
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\bin\Debug\netcoreapp2.1\Exercicio n1.runtimeconfig.json
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\bin\Debug\netcoreapp2.1\Exercicio n1.runtimeconfig.dev.json
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\bin\Debug\netcoreapp2.1\Exercicio n1.dll
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\bin\Debug\netcoreapp2.1\Exercicio n1.pdb
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\obj\Debug\netcoreapp2.1\Exercicio n1.csprojAssemblyReference.cache
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\obj\Debug\netcoreapp2.1\Exercicio n1.csproj.CoreCompileInputs.cache
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\obj\Debug\netcoreapp2.1\Exercicio n1.AssemblyInfoInputs.cache
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\obj\Debug\netcoreapp2.1\Exercicio n1.AssemblyInfo.cs
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\obj\Debug\netcoreapp2.1\Exercicio n1.dll
+F:\camillo\Exercícios\Exercicios FP 05 Comandos Repetição pg 120\Exercicio n1\obj\Debug\netcoreapp2.1\Exercicio n1.pdb
