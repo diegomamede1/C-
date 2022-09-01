@@ -1,0 +1,15 @@
+C:\Users\diegu\Desktop\VSCODE\camillo\bin\Debug\net6.0\camillo.exe
+C:\Users\diegu\Desktop\VSCODE\camillo\bin\Debug\net6.0\camillo.deps.json
+C:\Users\diegu\Desktop\VSCODE\camillo\bin\Debug\net6.0\camillo.runtimeconfig.json
+C:\Users\diegu\Desktop\VSCODE\camillo\bin\Debug\net6.0\camillo.dll
+C:\Users\diegu\Desktop\VSCODE\camillo\bin\Debug\net6.0\camillo.pdb
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\camillo.csproj.AssemblyReference.cache
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\camillo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\camillo.AssemblyInfoInputs.cache
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\camillo.AssemblyInfo.cs
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\camillo.csproj.CoreCompileInputs.cache
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\camillo.dll
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\refint\camillo.dll
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\camillo.pdb
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\camillo.genruntimeconfig.cache
+C:\Users\diegu\Desktop\VSCODE\camillo\obj\Debug\net6.0\ref\camillo.dll
