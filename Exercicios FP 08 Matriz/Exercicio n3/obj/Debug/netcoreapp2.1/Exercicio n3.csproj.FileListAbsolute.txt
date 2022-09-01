@@ -1,0 +1,13 @@
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\bin\Debug\netcoreapp2.1\Exercicio n3.deps.json
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\bin\Debug\netcoreapp2.1\Exercicio n3.runtimeconfig.json
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\bin\Debug\netcoreapp2.1\Exercicio n3.runtimeconfig.dev.json
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\bin\Debug\netcoreapp2.1\Exercicio n3.dll
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\bin\Debug\netcoreapp2.1\Exercicio n3.pdb
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\obj\Debug\netcoreapp2.1\Exercicio n3.csproj.AssemblyReference.cache
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\obj\Debug\netcoreapp2.1\Exercicio n3.GeneratedMSBuildEditorConfig.editorconfig
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\obj\Debug\netcoreapp2.1\Exercicio n3.AssemblyInfoInputs.cache
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\obj\Debug\netcoreapp2.1\Exercicio n3.AssemblyInfo.cs
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\obj\Debug\netcoreapp2.1\Exercicio n3.csproj.CoreCompileInputs.cache
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\obj\Debug\netcoreapp2.1\Exercicio n3.dll
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\obj\Debug\netcoreapp2.1\Exercicio n3.pdb
+E:\camillo\FP\Exercícios\Exercicios FP 08 Matriz\Exercicio n3\obj\Debug\netcoreapp2.1\Exercicio n3.genruntimeconfig.cache
